@@ -1,0 +1,3 @@
+https://rg1210diag.blob.core.windows.net/jenkins/jdk-8u181-windows-x64.exe
+
+https://rg1210diag.blob.core.windows.net/jenkins/jenkins-2.190.1.zip
